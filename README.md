@@ -10,13 +10,14 @@ The site includes:
 - A responsive layout with CSS media queries
 - A design aimed at being accessible and educational
 
+  
 ## Live Demo
 
-[View the site on Netlify]([https://your-netlify-link.netlify.app](https://tourmaline-croquembouche-737fae.netlify.app/))
+[View the site on Netlify](https://tourmaline-croquembouche-737fae.netlify.app/)
 
 ## GitHub Repository
 
-[The original repo for the project]([https://github.com/yourusername/science-museum](https://github.com/krisimo/krisimo.github.io/tree/main/CA-desember))
+[The original repo for the project](https://github.com/krisimo/krisimo.github.io/tree/main/CA-desember)
 
 ## Built With
 
