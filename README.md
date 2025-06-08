@@ -25,7 +25,7 @@ The site includes:
 - CSS
 - JavaScript
 
-## ✍What I Would Improve
+## What I Would Improve
 
 Since building this project, I’ve learned a lot. If I were to rebuild it today, I would:
 - Improve the mobile navigation UX
